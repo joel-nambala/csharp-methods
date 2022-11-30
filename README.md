@@ -1,2 +1,3 @@
-# csharp-methods
-Notes on methods in c#
+# C# Methods
+
+Notes on methods in C#

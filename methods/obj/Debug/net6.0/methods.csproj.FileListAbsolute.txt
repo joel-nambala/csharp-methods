@@ -1,0 +1,15 @@
+D:\Education\C Sharp\methods\methods\bin\Debug\net6.0\methods.exe
+D:\Education\C Sharp\methods\methods\bin\Debug\net6.0\methods.deps.json
+D:\Education\C Sharp\methods\methods\bin\Debug\net6.0\methods.runtimeconfig.json
+D:\Education\C Sharp\methods\methods\bin\Debug\net6.0\methods.dll
+D:\Education\C Sharp\methods\methods\bin\Debug\net6.0\methods.pdb
+D:\Education\C Sharp\methods\methods\obj\Debug\net6.0\methods.csproj.AssemblyReference.cache
+D:\Education\C Sharp\methods\methods\obj\Debug\net6.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\C Sharp\methods\methods\obj\Debug\net6.0\methods.AssemblyInfoInputs.cache
+D:\Education\C Sharp\methods\methods\obj\Debug\net6.0\methods.AssemblyInfo.cs
+D:\Education\C Sharp\methods\methods\obj\Debug\net6.0\methods.csproj.CoreCompileInputs.cache
+D:\Education\C Sharp\methods\methods\obj\Debug\net6.0\methods.dll
+D:\Education\C Sharp\methods\methods\obj\Debug\net6.0\refint\methods.dll
+D:\Education\C Sharp\methods\methods\obj\Debug\net6.0\methods.pdb
+D:\Education\C Sharp\methods\methods\obj\Debug\net6.0\methods.genruntimeconfig.cache
+D:\Education\C Sharp\methods\methods\obj\Debug\net6.0\ref\methods.dll
